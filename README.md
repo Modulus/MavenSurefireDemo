@@ -6,7 +6,8 @@ In this demo we have used both junit and spock
 
 ## Running the tests
 1. Unittest
-..* mvn test
+    * mvn test
+
 2. Integration tests
-..* mvn verify
-..* mvn integration-test
+    * mvn verify
+    * mvn integration-test
