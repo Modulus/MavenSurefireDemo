@@ -1,5 +1,6 @@
 # Maven surefire demo
 This is a demo of the maven surefire plugin running unittests in the mvn test phase and integration tests in the verify/integration phase.
+You of course need maven installed. [Download maven](https://maven.apache.org/)
 
 # Test frameworks used
 In this demo we have used both junit and spock
