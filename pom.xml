@@ -9,9 +9,6 @@
     <version>1.0-SNAPSHOT</version>
 
     <properties>
-        <maven.compiler.source>1.8</maven.compiler.source>
-        <maven.compiler.target>1.8</maven.compiler.target>
-        <java.version>1.8</java.version>
         <spock.version>1.0-groovy-2.4</spock.version>
         <groovy.version>2.4.7</groovy.version>
         <junit.version>4.12</junit.version>
@@ -57,7 +54,6 @@
                             <goals>
                                 <goal>compile</goal>
                                 <goal>testCompile</goal>
-                                <goal>addTestSources</goal>
                             </goals>
                         </execution>
                     </executions>
