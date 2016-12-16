@@ -49,6 +49,7 @@
                     <groupId>org.codehaus.gmavenplus</groupId>
                     <artifactId>gmavenplus-plugin</artifactId>
                     <version>1.5</version>
+                    <!--Will make mvn clean install run the groovy tests-->
                     <configuration>
                     <sources>
                         <source>
